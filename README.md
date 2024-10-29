@@ -1,3 +1,27 @@
+element.style {
+  background: black;
+}
+body {
+display: block;
+margin: 8px;
+
+}
+
+element.style {
+  background: black;
+    color: white;
+}
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
+
+<div>
+<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<p>#homem-aranha</p>
+</div>
+
 body {
     color: white;
     background: black;
